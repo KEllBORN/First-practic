@@ -1,4 +1,4 @@
 Hello git 123
 It's neww line
 Add new line
-Other new line
+123
